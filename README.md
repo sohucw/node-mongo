@@ -2,7 +2,7 @@
 
 ### mongodb 快速启动
 
-start mongodb
+start mongodb // windows操作
 
 ```bash
 # mongodb安装路径 执行下面命令
@@ -13,7 +13,7 @@ $ /usr/local/mongodb/bin/mongod --dbpath ~/Desktop/ms-interface/_data/db
 $ /usr/local/mongodb/bin/mongo
 ```
 
-## mongodb 创建本地数据库
+## mongodb 创建本地数据库   mac操作
 
 1. 创建数据库存储文件夹
 
@@ -33,9 +33,6 @@ $ cd /usr/local/mongodb/bin
 
 # 将mongodb 关联起来
 $ ./mongod --dbpath ~/Desktop/ms-interface/_data/db
-
-# 打开新的terminal
-$ command + N
 
 # 进入mongodb bin目录
 $ cd /usr/local/mongodb/bin
