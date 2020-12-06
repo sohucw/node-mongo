@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/fe521/ms-interface.git"
+    "url": "https://github.com/sohucw/node-mongo.git"
   },
   "keywords": [
     "interface",
@@ -18,7 +18,7 @@
     "express",
     "router"
   ],
-  "author": "isshaohai@163.com",
+  "author": "cjwsohu@163.com",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",

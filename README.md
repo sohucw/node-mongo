@@ -53,5 +53,5 @@ npm start
 ### 接口说明
 - // 根据owner查下的接口 
 - http://localhost:5000/api/v1/userEvents?returnValues.owner=0xf09B8dda559292111Af945e91717dA39eEF34Ade
-- // 获取排名的接口
-- http://localhost:5000/api/v1/userEventCounts
+- // 获取排名的接口   倒序
+- http://localhost:5000/api/v1/userEventCounts?sort=-amount
